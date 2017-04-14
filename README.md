@@ -11,29 +11,29 @@ All that is needed is a simple db.json file and the server can be started.
 
 ## Screenshots
 
-### A simple get request on all users.
-<img src="/screenshots/screenshot1.png" width="480">
+### A simple GET request on all users.
+<img src="/screenshots/screenshot1.png" width="720">
 
 
-### A simple post request to create a new user.
-<img src="/screenshots/screenshot2.png" width="480">
-<img src="/screenshots/screenshot3.png" width="480">
+### A simple POST request to create a new user.
+<img src="/screenshots/screenshot2.png" width="720">
+<img src="/screenshots/screenshot3.png" width="720">
 
 
-### A simple get request on a specific user.
-<img src="/screenshots/screenshot4.png" width="480">
+### A simple GET request on a specific user.
+<img src="/screenshots/screenshot4.png" width="720">
 
 
 ### A simple PUT request on a specific user
-<img src="/screenshots/screenshot5.png" width="480">
+<img src="/screenshots/screenshot5.png" width="720">
 
 
 ### A simple DELETE request on a specific user
-<img src="/screenshots/screenshot6.png" width="480">
-<img src="/screenshots/screenshot7.png" width="480">
+<img src="/screenshots/screenshot6.png" width="720">
+<img src="/screenshots/screenshot7.png" width="720">
 
 
-### Usage ###
+## Usage ##
 
 Requirements:
 
