@@ -1,12 +1,12 @@
 # JSONServerTest
 
-This project aims to experiment with the json-server library, which is a quick and easy way to create a REST API server.
+I created this project to experiment with the json-server library, which is a quick and easy way to create a REST API server.
 
 
-The main reason for this experiment is to speed up the workflow during future hackathons. Instead of spending valuable time to create and design API endpoints, I could create a simple json-server, which usually gets the job done and get the team to focus their attention on actual products.
+The main reason for this experiment is to find ways to speed up the workflow during future hackathons. Instead of spending valuable time to create and design API endpoints, I could create a simple json-server, which gets the job done. I can then get the team to focus their attention on the actual product.
 
 
-All that is needed is a simple db.json file and the server can be started.
+All that is needed is a simple db.json file and the server is ready to deploy.
 
 
 ## Screenshots
